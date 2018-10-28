@@ -69,6 +69,10 @@ Ein Merge Request sollte immer folgendes Schema besitzen:
 * Reviewer: Thomas Mildner
 
 Anbei eine Anleitung für Merge Requests: https://www.youtube.com/watch?v=Ddd3dbl4-2w 
+<br/>
+
+
+
 Achtung: Diese Anleitung ist noch für eine alte Gitlab Version - die Oberflächen unterscheiden sich ein wenig. Prof. Beneken hat eine Anleitung für den Gitlab Server, der FH Rosenheim erstellt.
 
 Ich freue mich auf die Zusammenarbeit und ein produktives Semester!
