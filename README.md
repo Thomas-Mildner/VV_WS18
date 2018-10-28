@@ -25,7 +25,7 @@ In der mündlichen Prüfung können Fragen zum Vorlesungsstoff aus Verteilte Ver
 ## Kommunikation
 
 Um eine einheitliche Kommunikationsplattform zu schaffen, erfolgt die Kommunikation über den Mattermost-Channel. Im Berufsumfeld wird auf diese Kommunikationsmittel gesetzt, wie beispielsweise Mattermost, Slack, Teams usw. <br/>
-vgl. hier: https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=m6i9p4ym1ifhf8m1jygdg1qder
+Teamname: VV_WS1819 / Channel: TownSquare
 <br/>
 Bitte schaut regelmäßig in den Channel und seid generell aktiv im Mattermost! Hier wird kommuniziert und Neuigkeiten zu Übungen/Termine / Prüfungen verbreitet.
 
@@ -74,6 +74,8 @@ Anbei eine Anleitung für Merge Requests: https://www.youtube.com/watch?v=Ddd3db
 
 
 Achtung: Diese Anleitung ist noch für eine alte Gitlab Version - die Oberflächen unterscheiden sich ein wenig. Prof. Beneken hat eine Anleitung für den Gitlab Server, der FH Rosenheim erstellt.
+<br/>
+Zu finden in meinem Gitlab Repository: http://bit.ly/GitlabMergeRequests 
 
 Ich freue mich auf die Zusammenarbeit und ein produktives Semester!
 <br/>
