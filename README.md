@@ -77,7 +77,7 @@ Anbei eine Anleitung für Merge Requests: https://www.youtube.com/watch?v=Ddd3db
 
 Achtung: Diese Anleitung ist noch für eine alte Gitlab Version - die Oberflächen unterscheiden sich ein wenig. Prof. Beneken hat eine Anleitung für den Gitlab Server, der FH Rosenheim erstellt.
 <br/>
-Zu finden in meinem Gitlab Repository: http://bit.ly/GitlabMergeRequests 
+Zu finden in meinem Gitlab Repository: http://bit.ly/AnleitungMergeRequests 
 
 Ich freue mich auf die Zusammenarbeit und ein produktives Semester!
 <br/>
